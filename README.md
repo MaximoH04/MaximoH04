@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/maximohidalgoo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://portfolio-maximo-hidalgo.vercel.app/assets/CV_Maximo_Hidalgo_2026.pdf">
-    <img src="https://img.shields.io/badge/CV-14335F?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"></a>
+    <img src="https://img.shields.io/badge/CV-14335F?style=for-the-badge" alt="CV"></a>
   <a href="mailto:maxihidalgo04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
