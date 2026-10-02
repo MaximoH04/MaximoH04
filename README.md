@@ -79,15 +79,16 @@ territorios, con video de fondo, convocatorias y carrusel de producciones.
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://agustina-hidalgo-portfolio.vercel.app">Agustina Hidalgo</a>
+### <a href="https://github.com/MaximoH04/maxo-art">Maxo · Web artística</a>
 
-<img src="./assets/proyecto-agustina.webp" alt="Portfolio de Agustina Hidalgo" width="100%">
+<img src="./assets/proyecto-maxo-art.webp" alt="Maxo, web artística" width="100%">
 
-Portfolio bilingüe para una traductora pública e intérprete médica, con selector de idioma,
-modo oscuro y secciones de servicios y trayectoria.
+Mi web como artista: el disco **PIEZAS** se arma como un rompecabezas, con una ficha por
+tema (letra, créditos y reproductor) y una sección de actuación. Las canciones se cargan
+desde un JSON, así sumo temas nuevos sin tocar el código.
 
-`HTML` `CSS` `JavaScript`
-<a href="https://agustina-hidalgo-portfolio.vercel.app">Ver en vivo</a>
+`HTML` `CSS` `JavaScript` `GSAP`
+<a href="https://maxo-art.vercel.app">Ver en vivo</a>
 
 </td>
 </tr>
@@ -126,8 +127,9 @@ modo oscuro y secciones de servicios y trayectoria.
 ## Más allá del código
 
 También hago música: soy **cantante, guitarrista y compositor**. Estoy armando **PIEZAS**,
-un disco conceptual de trap melódico, y el primer tema, **Sin Rumbo**, ya está en Spotify,
-Apple Music y YouTube Music.
+un disco conceptual de trap melódico, y el primer tema,
+**[Sin Rumbo](https://open.spotify.com/track/7vWkbXa5Xs8Xri9aPsJfjq)**, ya está en todas las
+plataformas. Todo eso vive en [maxo-art.vercel.app](https://maxo-art.vercel.app).
 
 Además doy servicio técnico: reparación de computadoras e instalación de software.
 
